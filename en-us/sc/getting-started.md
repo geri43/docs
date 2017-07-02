@@ -91,3 +91,8 @@ After you compile successfully, you will see` SmartContract1.avm` in the `bin/De
 ![image](http://docs.antshares.org/images/2017-05-11_13-21-21.jpg)
 
 Now that you have completed the configuration of the AntShares smart contract development environment, please refer to the [Art Experiment Guide for Tomids](tutorial.md)
+
+## Troubleshooting
+
+In case your AntShares.SmartContract.Framework is missing after creating a SmartContract project (indicated by the yellow triangle in your References), Right click on your project, press "Manage NuGet Packages..", and press Restore.
+
